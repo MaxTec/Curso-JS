@@ -117,3 +117,22 @@ p {
 ul li {
   padding-left: 20px;
 }
+.countdown {
+  background: #008000;
+  max-width: 400px;
+  margin: 0 auto;
+}
+.countdown__header {
+  padding: 10px;
+  display: block;
+  background: #ff6347;
+}
+.countdown__body {
+  background: #008080;
+  padding: 20px;
+  text-align: center;
+}
+.countdown__body span {
+  color: #fff;
+  font-size: 30px;
+}

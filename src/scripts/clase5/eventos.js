@@ -1,9 +1,9 @@
-// window.addEventListener('click', function() {
-//     alert('HOlaaa');
-// });
+// // window.addEventListener('click', function() {
+// //     alert('HOlaaa');
+// // });
 
 
-var miAlerta = function() {
-    alert('HOla2');
-}
-window.addEventListener('click', miAlerta);
+// var miAlerta = function() {
+//     alert('HOla2');
+// }
+// window.addEventListener('click', miAlerta);
